@@ -1,0 +1,47 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.button4{
+    border-radius: 12px;
+    --reach-tabs: 1;
+    --reach-menu-button: 1;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    overflow: visible;
+    margin: 0;
+    font-weight: 400;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgba(255, 255, 255, 1);
+    fill: rgba(255, 255, 255, 1);
+    background: rgba(25, 25, 25, 1);
+    border-color: rgba(25, 25, 25, 1);
+    border-radius: 99em;
+    border-width: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 24px;
+    padding: 7px 20px 9px;
+    width: 213px;
+    font-size: 20px;
+}
+.button2{
+    border-radius: 12px;
+    color: rgba(255, 255, 255, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    fill: rgba(255, 255, 255, 1);
+    background: rgba(25, 25, 25, 1);
+    border-color: rgba(25, 25, 25, 1);
+    text-decoration: none;
+    border-style: solid;
+}
+.bg-yellow{
+ background-color: #ffc017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
